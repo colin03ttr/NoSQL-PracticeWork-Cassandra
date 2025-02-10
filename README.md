@@ -1,5 +1,7 @@
 # NoSQL Course - Cassandra Practice Work 
+Colin TANTER - ESILV - OCC3
 
+[link to my github repository](https://github.com/colin03ttr/NoSQL-PracticeWork-Cassandra)
 ## Create Database on Cassandra
 
 ### Files transfer
